@@ -7,8 +7,6 @@ Features
 2. Responsive design suitable for different screen sizes
 3. Built with HTML, CSS, and JavaScript
 
-## Screenshots
 
-![Analog Clock Screenshot](WebDev/analogclock/images/screenshot.png)
 
 
