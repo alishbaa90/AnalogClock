@@ -9,6 +9,6 @@ Features
 
 ## Screenshots
 
-![Analog Clock Screenshot](images/screenshot.png)
+![Analog Clock Screenshot](WebDev/analogclock/images/screenshot.png)
 
 
